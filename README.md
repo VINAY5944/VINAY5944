@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **vinay5944m@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 <a href="https://www.leetcode.com/vinay5944m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vinay5944m" height="30" width="40" /></a>
 </p>
