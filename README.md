@@ -4,7 +4,7 @@
 
 
 
-
+<div  style="display:flex">
 
 
 
@@ -12,3 +12,4 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=vinay5944&show_icons=true&locale=en" alt="vinay5944" />
 
+</div>
